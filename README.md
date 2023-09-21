@@ -35,4 +35,5 @@
 ## 额外文件说明
 
 **eths_queryCurMint.py**: 获取当前正在铸造的eths内容,代码内有返回范例.
+
 **eths_queryEths.py**: 获取某单个eths是否铸造,代码内有返回范例.
